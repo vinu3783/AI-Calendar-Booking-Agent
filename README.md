@@ -1,7 +1,6 @@
 # AI-Calendar-Booking-Agent
 # 🤖 AI Calendar Booking Assistant
 
-**TailorTalk Backend Development Internship Assignment**
 
 A sophisticated conversational AI system for calendar management, featuring advanced NLP, personality adaptation, and enterprise-grade error handling.
 
